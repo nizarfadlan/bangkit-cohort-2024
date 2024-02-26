@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Submission Akhir Aplikasi Akhir</string>
+
+    # Personal data
+    <string name="name">Nizar Izzuddin Yatim Fadlan</string>
+    <string name="email">fadlannizar5@gmail.com</string>
+    <string name="photo">https://www.nizarfadlan.dev/assets/images/hero/hero.jpg</string>
+
+    # Page
+    <string name="about_page">About</string>
+
+    # Utils
+    <string name="title_course">Title Course</string>
+    <string name="description_course">Description Course</string>
+    <string name="time_learn_course">Time Course</string>
+    <string name="tags_course">Tags Course</string>
+    <string name="stars_course">Stars Course</string>
+    <string name="thumbnail_course">Thumbnail Course</string>
+    <string name="share_text">Share</string>
+</resources>

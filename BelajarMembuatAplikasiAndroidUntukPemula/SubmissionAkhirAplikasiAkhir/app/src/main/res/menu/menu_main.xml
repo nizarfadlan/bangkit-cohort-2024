@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/about_page"
+        android:icon="@drawable/person_24px"
+        android:title="@string/about_page"
+        android:iconTint="@color/white"
+        android:contentDescription="@string/about_page"
+        app:showAsAction="ifRoom"
+        tools:ignore="UnusedAttribute" />
+</menu>

@@ -1,7 +1,7 @@
-<center>
-  <img src="./logo.svg" alt="Logo Bangkit" width="280px" />
+<div style="text-align: center;">
+  <img src="./logo.svg" alt="Logo Bangkit" width="280px" style="margin-right: auto; margin-left:auto;background:#fff;padding: 2em;border-radius:2em" />
   <h1>Recap on Bangkit Cohort batch 1 2024</h1>
-</center>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nizariyf/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Follow-Linkedin-blue"></a>

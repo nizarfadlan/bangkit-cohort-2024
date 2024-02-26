@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/round_camera_alt_24"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/rounded_perm_media_24"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/round_layers_24"
+            android:title="@string/menu_slideshow" />
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/rounded_shopping_cart_24"
+            android:title="@string/menu_cart" />
+    </group>
+    <item android:title="@string/menu_map">
+        <menu>
+            <item
+                android:id="@+id/nav_map"
+                android:icon="@drawable/rounded_map_24"
+                android:title="@string/menu_map" />
+            <item
+                android:id="@+id/nav_hotel"
+                android:icon="@drawable/rounded_hotel_24"
+                android:title="@string/menu_hotel" />
+            <item
+                android:id="@+id/nav_subway"
+                android:icon="@drawable/rounded_directions_subway_24"
+                android:title="@string/menu_subway" />
+        </menu>
+    </item>
+
+</menu>
