@@ -1,5 +1,5 @@
-<div style="text-align: center;">
-  <img src="./logo.svg" alt="Logo Bangkit" width="280px" style="margin-right: auto; margin-left:auto;background:#fff;padding: 2em;border-radius:2em" />
+<div align="center">
+  <img src="./logo.svg" alt="Logo Bangkit" width="280px" />
   <h1>Recap on Bangkit Cohort batch 1 2024</h1>
 </div>
 
