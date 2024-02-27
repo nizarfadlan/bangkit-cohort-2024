@@ -33,6 +33,7 @@ The course is divide into 2: Mandatory all learning paths (Mobile Development, M
 From the course above, it can be seen that Bangkit follows the current industry science. On the learning path mobile development course, we learned about the following topics:
 1. [Memulai Pemrograman dengan Kotlin](/MemulaiPemrogramanDenganKotlin)
 2. [Belajar Membuat Aplikasi Android untuk Pemula](/BelajarMembuatAplikasiAndroidUntukPemula)
+3. [Belajar Fundamental Aplikasi Android](/BelajarFundamentalAplikasiAndroid/)
 
 # Final Project
 
