@@ -45,10 +45,19 @@ android {
 }
 
 dependencies {
+    // Image library
     implementation("com.github.bumptech.glide:glide:4.16.0")
+
+    // Network library
     implementation("com.squareup.retrofit2:retrofit:2.9.0")
+    // JSON converter to GSON library
     implementation("com.squareup.retrofit2:converter-gson:2.9.0")
+
+    // Logging interceptor
     implementation("com.squareup.okhttp3:logging-interceptor:4.11.0")
+
+    // Android KTX
+    implementation("androidx.activity:activity-ktx:1.8.2")
 
     implementation("androidx.core:core-ktx:1.12.0")
     implementation("androidx.appcompat:appcompat:1.6.1")

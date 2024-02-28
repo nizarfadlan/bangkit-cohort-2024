@@ -20,17 +20,24 @@ class ReviewAdapter : ListAdapter<CustomerReviewsItem, ReviewAdapter.MyViewHolde
     }
 
     class MyViewHolder(val binding: ItemReviewBinding) : RecyclerView.ViewHolder(binding.root) {
-        fun bind(review: CustomerReviewsItem){
+        fun bind(review: CustomerReviewsItem) {
             binding.tvItem.text = "${review.review}\n- ${review.name}"
         }
     }
 
     companion object {
         val DIFF_CALLBACK = object : DiffUtil.ItemCallback<CustomerReviewsItem>() {
-            override fun areItemsTheSame(oldItem: CustomerReviewsItem, newItem: CustomerReviewsItem): Boolean {
+            override fun areItemsTheSame(
+                oldItem: CustomerReviewsItem,
+                newItem: CustomerReviewsItem
+            ): Boolean {
                 return oldItem == newItem
             }
-            override fun areContentsTheSame(oldItem: CustomerReviewsItem, newItem: CustomerReviewsItem): Boolean {
+
+            override fun areContentsTheSame(
+                oldItem: CustomerReviewsItem,
+                newItem: CustomerReviewsItem
+            ): Boolean {
                 return oldItem == newItem
             }
         }
