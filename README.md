@@ -34,6 +34,8 @@ From the course above, it can be seen that Bangkit follows the current industry 
 1. [Memulai Pemrograman dengan Kotlin](/MemulaiPemrogramanDenganKotlin)
 2. [Belajar Membuat Aplikasi Android untuk Pemula](/BelajarMembuatAplikasiAndroidUntukPemula)
 3. [Belajar Fundamental Aplikasi Android](/BelajarFundamentalAplikasiAndroid/)
+4. [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/academies/169)
+5. [Belajar Dasar AI](https://www.dicoding.com/academies/653)
 
 # Final Project
 
