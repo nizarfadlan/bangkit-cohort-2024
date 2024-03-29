@@ -36,6 +36,8 @@ From the course above, it can be seen that Bangkit follows the current industry 
 3. [Belajar Fundamental Aplikasi Android](/BelajarFundamentalAplikasiAndroid/)
 4. [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/academies/169)
 5. [Belajar Dasar AI](https://www.dicoding.com/academies/653)
+6. [Belajar Penerapan Machine Learning untuk Android](/BelajarPenerapanMachineLearningUntukAndroid)
+7. [Belajar Pengembangan Aplikasi Android Intermediate](/)
 
 # Final Project
 
@@ -44,3 +46,5 @@ _Progress_
 # Conclusion
 
 _Progress_
+
+> Disclaimer: This project is part of the Bangkit Academy program and should not be copied & pasted to be submitted as a submission to Dicoding.
