@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result_title">Result Analysis</string>
+    <string name="history_title">History</string>
+    <string name="result">Hasil Analisis: %s</string>
+    <string name="title_news">Health News</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="no_results_news">Tidak ada artikel yang ditemukan.</string>
+    <string name="error_result_news">Error: %s</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="history">History</string>
+    <string name="no_history">No history</string>
+    <string name="delete_history">Successfully delete history</string>
+    <string name="error_delete_history">Failed to delete history</string>
+    <string name="save_history">Successfully save history</string>
+    <string name="description_image">Image Analyze</string>
+</resources>
