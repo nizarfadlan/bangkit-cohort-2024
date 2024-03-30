@@ -10,8 +10,11 @@ object Injection {
     fun provideRepository(context: Context): GithubRepository {
         val apiService = ApiConfig.getApiService()
         val database = UserDatabase.getInstance(context)
-        val pref = SettingPreferences.getInstance(context)
         val dao = database.favoriteUserDao()
-        return GithubRepository.getInstance(apiService, dao, pref)
+        return GithubRepository.getInstance(apiService, dao)
+    }
+
+    fun provideSettingPreferences(context: Context): SettingPreferences {
+        return SettingPreferences.getInstance(context)
     }
 }

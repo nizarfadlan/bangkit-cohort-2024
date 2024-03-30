@@ -9,8 +9,12 @@ import com.nizarfadlan.aplikasigithubuser.ui.detailsScreen.DetailViewModel
 import com.nizarfadlan.aplikasigithubuser.ui.favoriteScreen.FavoriteViewModel
 import com.nizarfadlan.aplikasigithubuser.ui.homeScreen.HomeViewModel
 import com.nizarfadlan.aplikasigithubuser.ui.settingScreen.SettingViewModel
+import com.nizarfadlan.aplikasigithubuser.utils.SettingPreferences
 
-class ViewModelFactory private constructor(private val githubRepository: GithubRepository) :
+class ViewModelFactory private constructor(
+    private val githubRepository: GithubRepository,
+    private val settingPreferences: SettingPreferences
+) :
     ViewModelProvider.NewInstanceFactory() {
 
     @Suppress("UNCHECKED_CAST")
@@ -22,7 +26,7 @@ class ViewModelFactory private constructor(private val githubRepository: GithubR
         } else if (modelClass.isAssignableFrom(FavoriteViewModel::class.java)) {
             return FavoriteViewModel(githubRepository) as T
         } else if (modelClass.isAssignableFrom(SettingViewModel::class.java)) {
-            return SettingViewModel(githubRepository) as T
+            return SettingViewModel(settingPreferences) as T
         }
         throw IllegalArgumentException("Unknown ViewModel class: " + modelClass.name)
     }
@@ -32,7 +36,10 @@ class ViewModelFactory private constructor(private val githubRepository: GithubR
         private var instance: ViewModelFactory? = null
         fun getInstance(context: Context): ViewModelFactory =
             instance ?: synchronized(this) {
-                instance ?: ViewModelFactory(Injection.provideRepository(context))
+                instance ?: ViewModelFactory(
+                    Injection.provideRepository(context),
+                    Injection.provideSettingPreferences(context)
+                )
             }.also { instance = it }
     }
 }

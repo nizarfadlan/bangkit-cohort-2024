@@ -13,8 +13,7 @@ import kotlinx.coroutines.flow.flow
 
 class GithubRepository private constructor(
     private val apiService: ApiService,
-    private val userDao: UserDao,
-    private val pref: SettingPreferences
+    private val userDao: UserDao
 ) {
     fun getAllUsers(username: String): Flow<Result<SearchUserResponse>> = flow {
         emit(Result.Loading)
@@ -72,15 +71,7 @@ class GithubRepository private constructor(
         }
     }
 
-    fun getThemeSettings(): Flow<ThemeMode> {
-        return pref.getThemeSetting()
-    }
-
-    suspend fun saveThemeSetting(themeMode: ThemeMode) {
-        pref.saveThemeSetting(themeMode)
-    }
-
-    suspend fun getAllFavoriteUsers(): Flow<List<UserEntity>> = flow {
+    fun getAllFavoriteUsers(): Flow<List<UserEntity>> = flow {
         emit(userDao.getAllFavoriteUsers())
     }
 
@@ -93,11 +84,10 @@ class GithubRepository private constructor(
         private var instance: GithubRepository? = null
         fun getInstance(
             apiService: ApiService,
-            userDao: UserDao,
-            pref: SettingPreferences
+            userDao: UserDao
         ): GithubRepository =
             instance ?: synchronized(this) {
-                instance ?: GithubRepository(apiService, userDao, pref)
+                instance ?: GithubRepository(apiService, userDao)
             }.also { instance = it }
     }
 }
