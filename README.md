@@ -31,12 +31,12 @@ The course is divide into 2: Mandatory all learning paths (Mobile Development, M
 3. [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/academies/317)
 
 From the course above, it can be seen that Bangkit follows the current industry science. On the learning path mobile development course, we learned about the following topics:
-1. [Memulai Pemrograman dengan Kotlin](/MemulaiPemrogramanDenganKotlin)
-2. [Belajar Membuat Aplikasi Android untuk Pemula](/BelajarMembuatAplikasiAndroidUntukPemula)
-3. [Belajar Fundamental Aplikasi Android](/BelajarFundamentalAplikasiAndroid/)
+1. [Memulai Pemrograman dengan Kotlin](/MPK)
+2. [Belajar Membuat Aplikasi Android untuk Pemula](/BMAAP)
+3. [Belajar Fundamental Aplikasi Android](/BFAA)
 4. [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/academies/169)
 5. [Belajar Dasar AI](https://www.dicoding.com/academies/653)
-6. [Belajar Penerapan Machine Learning untuk Android](/BelajarPenerapanMachineLearningUntukAndroid)
+6. [Belajar Penerapan Machine Learning untuk Android](/BPMLA)
 7. [Belajar Pengembangan Aplikasi Android Intermediate](/)
 
 # Final Project
