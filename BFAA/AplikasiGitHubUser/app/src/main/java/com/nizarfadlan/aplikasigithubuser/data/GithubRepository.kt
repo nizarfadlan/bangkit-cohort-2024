@@ -5,8 +5,6 @@ import com.nizarfadlan.aplikasigithubuser.data.local.room.UserDao
 import com.nizarfadlan.aplikasigithubuser.data.remote.response.ItemsItem
 import com.nizarfadlan.aplikasigithubuser.data.remote.response.SearchUserResponse
 import com.nizarfadlan.aplikasigithubuser.data.remote.retrofit.ApiService
-import com.nizarfadlan.aplikasigithubuser.utils.SettingPreferences
-import com.nizarfadlan.aplikasigithubuser.utils.ThemeMode
 import com.nizarfadlan.aplikasigithubuser.utils.toUserEntity
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
