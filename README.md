@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.svg" alt="Logo Bangkit" width="280px" />
+  <img src="https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/logo.svg" alt="Logo Bangkit" width="280px" />
   <h1>Recap on Bangkit Cohort batch 1 2024</h1>
 </div>
 
@@ -21,7 +21,11 @@ This is a recap on the Bangkit Cohort batch 1 2024 for role Mobile Development. 
 
 # Bangkit Program
 
-_Progress_
+Bangkit Academy 2024 is organized as part of Kampus Merdeka-Certified Independent Study (SIB) in collaboration with Google, GoTo, Traveloka, and other partners.
+
+<a href="https://bangkit.dev/dcd-landingpage">
+  <img src="https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/join.png" width="150px" />
+</a>
 
 # Mobile Development Course
 
@@ -38,6 +42,29 @@ From the course above, it can be seen that Bangkit follows the current industry 
 5. [Belajar Dasar AI](https://www.dicoding.com/academies/653)
 6. [Belajar Penerapan Machine Learning untuk Android](/BPMLA)
 7. [Belajar Pengembangan Aplikasi Android Intermediate](/)
+
+<details>
+  <summary>Certificate</summary>
+
+  | Course | Certificate |
+  | --- | --- |
+  | Memulai Dasar Pemrograman untuk Menjadi Pengembang Software | ![Certificate](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/certificate-1.jpg) |
+  | Pengenalan ke Logika Pemrograman (Programming Logic 101) | ![Certificate](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/certificate-2.jpg) |
+  | Belajar Dasar Git dengan GitHub | ![Certificate](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/certificate-3.jpg) |
+  | Memulai Pemrograman dengan Kotlin | ![Certificate](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/certificate-4.jpg) |
+  | Belajar Membuat Aplikasi Android untuk Pemula | ![Certificate](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/certificate-5.jpg) |
+  | Belajar Fundamental Aplikasi Android | ![Certificate](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/certificate-6.jpg) |
+  | Belajar Prinsip Pemrograman SOLID | ![Certificate](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/certificate-7.jpg) |
+  | Belajar Dasar AI | ![Certificate](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/certificate-8.jpg) |
+  | Belajar Penerapan Machine Learning untuk Android | ![Certificate](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/certificate-9.jpg) |
+  | Belajar Pengembangan Aplikasi Android Intermediate | ![Certificate](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/certificate-10.jpg) |
+
+</details>
+
+<details>
+  <summary>ILT</summary>
+
+</details>
 
 # Final Project
 
