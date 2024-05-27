@@ -64,6 +64,23 @@ From the course above, it can be seen that Bangkit follows the current industry 
 <details>
   <summary>ILT</summary>
 
+  | ILT | Title | Screenshoot |
+  | --- | --- | --- |
+  | Soft Skill | Growth Mindset and The Power of Feedback | ![ILT](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/SS1.png) |
+  | Mobile Development | Kotlin Fundamental | ![ILT](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/MD1.png) |
+  | Soft Skill | Time and Energy Management | ![ILT](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/SS2.png) |
+  | Mobile Development | Android Fundamental : Layout, List & Navigation | ![ILT](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/MD2.png) |
+  | English | Spoken Correspondence | ![ILT](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/EN1.png) |
+  | Soft Skill | Stress Management, Adaptability, and Resilience | ![ILT](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/SS3.png) |
+  | Mobile Development | Android Fundamental : Networking, Architecture Component & Data Persistent | ![ILT](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/MD3.png) |
+  | Soft Skill | Critical Thinking and Problem Solving | ![ILT](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/SS4.png) |
+  | Mobile Development | Applied Machine Learning for Android Developer | ![ILT](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/MD4.png) |
+  | Soft Skill | Project Management | ![ILT](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/SS5.png) |
+  | Mobile Development | Android Intermediate : Advanced UI, Animation, and, Localization | ![ILT](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/MD5.png) |
+  | English | Expressing Opinions | ![ILT](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/EN2.png) |
+  | Soft Skill | Professional Branding and Networking | ![ILT](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/SS6.png) |
+  | Mobile Development | Android Intermediate : Geo Location & Advanced Testing | ![ILT](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/MD6.png) |
+  | Soft Skill | Effective Communication | ![ILT](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/SS7.png) |
 </details>
 
 # Final Project
@@ -74,4 +91,4 @@ _Progress_
 
 _Progress_
 
-> Disclaimer: This project is part of the Bangkit Academy program and should not be copied & pasted to be submitted as a submission to Dicoding.
+> Disclaimer: This repository is part of the Bangkit Academy program journey and should not be copied & pasted to submit as a submission to Dicoding.
