@@ -81,6 +81,7 @@ From the course above, it can be seen that Bangkit follows the current industry 
   | Soft Skill | Professional Branding and Networking | ![ILT](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/SS6.png) |
   | Mobile Development | Android Intermediate : Geo Location & Advanced Testing | ![ILT](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/MD6.png) |
   | Soft Skill | Effective Communication | ![ILT](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/SS7.png) |
+  | English | Business Presentation | ![ILT](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/EN3.png) |
 </details>
 
 # Final Project
