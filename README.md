@@ -84,12 +84,12 @@ From the course above, it can be seen that Bangkit follows the current industry 
   | English | Business Presentation | ![ILT](https://github.com/nizarfadlan/bangkit-cohort-2024/blob/main/assets/EN3.png) |
 </details>
 
-# Final Project
+# Capstone Project
 
-_Progress_
+Very happy to be able to complete the capstone project with a very good team, just go to [Nutrilog Github](https://github.com/Nutrilog).
 
 # Conclusion
 
-_Progress_
+During these six months I gained a lot of unforgettable experiences and relationships. Knowledge and certification from course institutions such as Dicoding made me confident in my abilities. Besides learning technical things, I was also taught about self-development things that made me feel more productive and developed than before participating in the Bangkit Akademi 2024 activity.
 
 > Disclaimer: This repository is part of the Bangkit Academy program journey and should not be copied & pasted to submit as a submission to Dicoding.
