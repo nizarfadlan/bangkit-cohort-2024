@@ -11,7 +11,7 @@
 
 # Introduction
 
-This is a recap on the Bangkit Cohort batch 1 2024 for role Mobile Development. This recap will cover the following topics:
+This is a recap on the Bangkit Cohort batch 1 2024 for learning path Mobile Development. This recap will cover the following topics:
 
 - [Introduction](#introduction)
 - [Bangkit Program](#bangkit-program)
